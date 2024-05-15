@@ -1,0 +1,16 @@
+{
+    "payment": [
+      {
+        "id": "pay",
+        "status" : "200",
+        "payType" : "card",
+        "text" : "결제되었습니다."
+      },
+      {
+        "id": "cancel",
+        "status": "200",
+        "payType": "card",
+        "text": "결제취소되었습니다."
+      }
+    ]
+  }
